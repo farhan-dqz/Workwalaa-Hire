@@ -5,7 +5,6 @@ import {
   Facebook,
   Instagram,
   Twitter,
-  ChevronRight,
   Heart,
 } from 'lucide-react';
 
